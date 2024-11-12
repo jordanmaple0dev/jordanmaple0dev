@@ -17,11 +17,10 @@
 
 <img align="left" alt="RUST" width="50px" style="padding-right:10px;" src="rust.png" />
 <img align="left" alt="GO" width="50px" style="padding-right:10px;" src="go.png" />
-<img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/ts-icon.svg" />
-<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/js-icon.svg" />
-<img align="left" alt="PHP" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/python-icon.svg" />
-<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/java-icon.svg" /><br/>
+<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="javascript.png" />
+<img align="left" alt="PHP" width="50px" style="padding-right:10px;" src="php.png" />
+<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="python.png" />
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="java.png" /><br/>
 <br/>
 
 ### Libraries
@@ -34,7 +33,7 @@
 
 ### Frameworks
 
-<img align="left" alt="Angular" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Burpsuite" width="50px" style="padding-right:10px;" src="Burpsuite.png" />
 <img align="left" alt="Vue" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg" />
 <img align="left" alt="Node.js" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
 <img align="left" alt="Bootstrap" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
