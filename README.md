@@ -1,12 +1,12 @@
 # 💫 About Me
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&center=true&vCenter=true&width=670&height=100&lines=Cybersecurity+Expert;8%2B+years+experience;Always+learning+new+tech" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&center=true&vCenter=true&width=670&height=100&lines=Cybersecurity+Expert;5%2B+years+experience;Always+learning+new+tech" alt="Typing SVG" /></a>
 </div>
 
 <br/>
-- 🔭 Full-stack developer with 8+ years of experience designing and building scalable, high-performance web applications<br/>
-- 🌱 Proficient in front-end technologies like React, Next.js, as well as back-end technologies like Node.js, Python, PHP(Laravel) and Ruby on Rails<br/>
+- 🔭 Cybersecurity expert with 5+ years of experience in the realm of security, by designing and testing scalable security systems<br/>
+- 🌱 Advanced knowledge and hands-on experience with <br/>
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS, DigitalOcean, GCP and Azure<br/>
 <br/><br/>
 
@@ -15,8 +15,8 @@
 
 ### Languages
 
-<img align="left" alt="HTML5" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS3" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="HTML5" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+<img align="left" alt="CSS3" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-plain.svg" />
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/ts-icon.svg" />
 <img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/js-icon.svg" />
 <img align="left" alt="PHP" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
