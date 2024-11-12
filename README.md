@@ -15,7 +15,7 @@
 
 ### Languages
 
-<img align="left" alt="RUST" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/tree/v2.15.1/icons/rust/rust-plain.svg" />
+<img align="left" alt="RUST" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/tree/v2.15.0/icons/rust/rust-plain.svg" />
 <img align="left" alt="GO" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-plain.svg" />
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/ts-icon.svg" />
 <img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/js-icon.svg" />
