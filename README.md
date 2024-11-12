@@ -15,12 +15,12 @@
 
 ### Languages
 
-<img align="left" alt="RUST" width="50px" style="padding-right:10px;" src="rust.png" />
-<img align="left" alt="GO" width="50px" style="padding-right:10px;" src="go.png" />
-<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="javascript.png" />
-<img align="left" alt="PHP" width="50px" style="padding-right:10px;" src="php.png" />
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="python.png" />
-<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="java.png" /><br/>
+<img align="left" alt="RUST" width="50px" height="50px" style="padding-right:10px;" src="rust.png" />
+<img align="left" alt="GO" width="50px" height="50px" style="padding-right:10px;" src="go.png" />
+<img align="left" alt="JavaScript" width="50px" height="50px" style="padding-right:10px;" src="javascript.png" />
+<img align="left" alt="PHP" width="50px" height="50px" style="padding-right:10px;" src="php.png" />
+<img align="left" alt="Python" width="50px" height="50px" style="padding-right:10px;" src="python.png" />
+<img align="left" alt="Java" width="50px" height="50px" style="padding-right:10px;" src="java.png" /><br/>
 <br/>
 
 ### Libraries
